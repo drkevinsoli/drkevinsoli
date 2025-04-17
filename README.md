@@ -12,7 +12,7 @@ Where I document and share my
 🚀 practical insights (hopefull)
 
 You can also follow me on LinkedIn
-🌏 linkedin.com/in/drkevinsoli/
+🌏 https://www.linkedin.com/in/drkevinsoli/
 
 <!--
 **drkevinsoli/drkevinsoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
