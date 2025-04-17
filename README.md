@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hello Reader... 💬
+
+I'm fascinated about:
+📍 text analytics
+📍 automation and
+📍 AI agents
+
+This is my learning journey!
+Where I document and share my
+🚀 process & progress.
+🚀 challenges & opportunities.
+🚀 practical insights (hopefull)
+
+You can also follow me on LinkedIn
+🌏 linkedin.com/in/drkevinsoli/
 
 <!--
 **drkevinsoli/drkevinsoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
